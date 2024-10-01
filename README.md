@@ -41,3 +41,6 @@ Tampilan gambar setelah diberi widget Expanded
 
 ## Build Card
 ![Hasil](build-card.jpeg)
+
+## Tampilan akhir setelah digabungkan
+![Hasil](tampilan-akhir.jpeg)
