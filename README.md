@@ -24,12 +24,19 @@
 ![Hasil](expanded-column.jpeg)
 
 ## Rating Widgets
+![Hasil](rating-widgets.jpeg)
 
+## multiple widgets vertically and horizontally
+![Hasil](multiple-widget-horizontal.jpeg)
 
 ## Icon List
+![Hasil](icon-list.jpeg)
 
 ## Build List
+![Hasil](build-list.jpeg)
 
 ## Build Stack
+![Hasil](build-stack.jpeg)
 
 ## Build Card
+![Hasil](build-card.jpeg)
