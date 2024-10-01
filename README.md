@@ -1,16 +1,27 @@
-# layout_app
+## Material Apps
+![Source Code](image.png)
 
-A new Flutter project.
+## Cupertino Apps
+![Source Code](image-1.png)
 
-## Getting Started
+## Non-Material Apps
+![Source Code](image-2.png)
 
-This project is a starting point for a Flutter application.
+## Build Row
 
-A few resources to get you started if this is your first Flutter project:
+## Build Column
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Sizing Widgets
+1. Row
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Column
+
+## Rating Widgets
+
+## Icon List
+
+## Build List
+
+## Build Stack
+
+## Build Card
