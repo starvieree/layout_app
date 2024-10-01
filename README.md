@@ -44,3 +44,6 @@ Tampilan gambar setelah diberi widget Expanded
 
 ## Tampilan akhir setelah digabungkan
 ![Hasil](tampilan-akhir.jpeg)
+
+## Referensi
+[https://docs.flutter.dev/ui/layout]
