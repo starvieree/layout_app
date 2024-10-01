@@ -17,6 +17,7 @@
 ![Hasil](build-column.jpeg)
 
 ## Sizing Widgets
+Tampilan gambar setelah diberi widget Expanded
 1. Row
 ![Hasil](expanded-row.jpeg)
 
